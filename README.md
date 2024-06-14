@@ -63,10 +63,6 @@ In summary, this study identified that square footage is the most significant pr
 
 
 # Works Cited
-<div style="margin-left: 50px; text-indent: -50px; line-height: 2;">
-    <p>Imran, M. B. (2023, November 21). <i>Housing price prediction data</i>. Kaggle. Retrieved June 13, 2024, from <a href="https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data">https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data</a></p>
-</div>
+Imran, M. B. (2023, November 21). <i>Housing price prediction data</i>. Kaggle. Retrieved June 13, 2024, from [https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data](https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data)
 
-<div style="margin-left: 50px; text-indent: -50px; line-height: 2;">
-    <p>Zhang, L. (2023). Housing price prediction using machine learning algorithm. <i>Journal of World Economy</i>, <i>2</i>(3). <a href="https://www.pioneerpublisher.com/jwe/article/view/392">https://www.pioneerpublisher.com/jwe/article/view/392</a></p>
-</div>
+Zhang, L. (2023). Housing price prediction using machine learning algorithm. <i>Journal of World Economy</i>, <i>2</i>(3). [https://www.pioneerpublisher.com/jwe/article/view/392](https://www.pioneerpublisher.com/jwe/article/view/392)
