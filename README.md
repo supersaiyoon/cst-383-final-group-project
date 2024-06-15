@@ -59,7 +59,7 @@ In terms of tools, our use of Google Colab provided a convenient platform for da
 In summary, this study identified that square footage is the most significant predictor of housing prices, a finding corroborated by Ling Zhang’s research. The KNN model demonstrated reasonable predictive capabilities after hyperparameter tuning but had limitations with extreme values. Advanced models like XGBoost, as highlighted by Zhang, offer potential improvements in prediction accuracy. Visualizations effectively highlighted key relationships and aided in evaluating model performance.
 
 # Links
-[Video Presentation]()
+[Video Presentation](https://youtu.be/XAxuZtB4JdY?si=khD6b31ty9HxG4fo)
 
 
 # Works Cited
